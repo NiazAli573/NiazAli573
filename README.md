@@ -1,240 +1,274 @@
-# Hi, I'm Niaz Ali 👋
+<div align="center">
 
-### Software Engineering Student · AI/ML · Full-Stack Development
+<img src="https://github.com/NiazAli573.png" width="120" height="120" style="border-radius:50%;" />
 
-I'm a Software Engineering student at **Ghulam Ishaq Khan Institute (GIKI)** with a strong interest in **Web Engineering, Artificial Intelligence, Machine Learning, and Software Engineering**.
+# Niaz Ali 👋
 
-I enjoy turning ideas into practical, scalable software — from full-stack web applications and intelligent systems to developer-focused tools. I care about clean architecture, maintainable code, performance, security, and building solutions that solve real problems.
+### Software Engineering Student · AI/ML · Full-Stack Developer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/niazali573/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nas.info573@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://niazali.tech">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/NiazAli573">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+Building **intelligent, scalable, and practical software** across AI, web engineering, and modern application development.
 
----
+<br>
 
-## 🚀 What I Work On
+<a href="https://niazali.tech">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/niazali573/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nas.info573@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/NiazAli573">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-* 🌐 **Web Engineering** — Full-stack applications, REST APIs, authentication & scalable architectures
-* 🤖 **AI & Machine Learning** — Intelligent systems, recommendation engines & predictive applications
-* 🧩 **Software Engineering** — System design, clean code, design patterns & software architecture
-* 🗄️ **Backend & Data** — API development, databases, data processing & integration
-* 🐳 **DevOps & Tools** — Docker, Git, Linux and modern development workflows
+</div>
+
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About
 
-### Languages
+I'm a **Software Engineering student at GIKI** interested in building software that solves real-world problems.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+My work spans **AI/ML, full-stack development, backend engineering, and software architecture**. I enjoy turning ideas into reliable products while keeping code clean, maintainable, and scalable.
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
-
-### Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
-
-### AI / Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-
-### Databases & DevOps
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+Currently exploring deeper into **AI systems, intelligent applications, scalable backend architectures, and modern deployment workflows**.
 
 ---
 
-## 💻 Featured Projects
+## 🧰 Technologies
 
-### 🤖 AI-Powered Crypto Signal Prediction Platform
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
 
-An AI-powered cryptocurrency prediction platform designed to analyze market data and generate real-time predictions.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
 
-**Highlights**
+</td>
+</tr>
 
-* Real-time cryptocurrency market dashboard
-* DQN-based reinforcement learning agent
-* Prediction logging and automatic verification
-* Model evaluation with accuracy, precision, recall and F1-score
-* Candlestick charts and analytical dashboards
-* Automated PDF evaluation reports
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
 
-**Stack:** Python · PyTorch · Streamlit · Scikit-learn · Pandas · NumPy · Plotly
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
----
+</td>
+</tr>
 
-### 🎬 Machine Learning Movie Recommendation System
+<tr>
+<td><strong>Backend</strong></td>
+<td>
 
-A full-stack recommendation platform that uses content-based filtering to recommend similar movies from a dataset of **4,800+ movies**.
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 
-**Highlights**
+</td>
+</tr>
 
-* Vectorization and cosine similarity
-* Fuzzy search with typo tolerance
-* Genre filtering and autocomplete
-* Movie metadata and cast information
-* Intelligent poster caching
-* Responsive React interface
-* FastAPI backend
+<tr>
+<td><strong>AI / ML</strong></td>
+<td>
 
-**Stack:** React · Vite · Tailwind CSS · FastAPI · Python · Scikit-learn · Pandas · NumPy
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 
----
+</td>
+</tr>
 
-### 🍽️ HomeBite — Home-Cooked Meals Marketplace
+<tr>
+<td><strong>Data & DevOps</strong></td>
+<td>
 
-A hyperlocal marketplace connecting home cooks with customers looking for fresh, homemade meals.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
-**Highlights**
-
-* Location-based meal discovery
-* Customer and cook dashboards
-* Order lifecycle management
-* Real-time order tracking
-* Rating and reputation system
-* Inventory and meal management
-* Role-based administration
-
-**Stack:** React · Django · Django REST Framework · PostgreSQL · Leaflet.js
-
----
-
-### 🎓 SALAMS — Smart Academic Learning Management System
-
-A centralized academic management platform designed for students, teachers and administrators.
-
-**Highlights**
-
-* Role-based dashboards
-* Course and enrollment management
-* Attendance tracking
-* Grade management
-* Assignment and file management
-* Announcements and communication
-* Role-Based Access Control (RBAC)
-
-**Stack:** React · Node.js · Express · PostgreSQL · EJS
+</td>
+</tr>
+</table>
 
 ---
 
-### 💰 PayPilot — Personal Finance Manager
+## 🚀 Selected Work
 
-A Java Swing desktop application for managing personal finances, budgets and spending analytics.
+<table>
+<tr>
+<td width="50%">
 
-**Highlights**
+### 🤖 AI Crypto Prediction
 
-* Expense and budget management
-* Spending analytics and visualizations
-* Group expense splitting
-* Recurring expenses
-* Undo/redo functionality
-* Automated report generation
+AI-powered cryptocurrency prediction platform using **reinforcement learning** to analyze market data and generate predictions.
 
-**Stack:** Java · Java Swing · MVC · Java Serialization
+**Built with**
 
----
+`Python` `PyTorch` `Streamlit` `Scikit-learn` `Plotly`
 
-### 🎬 Streamify — DSA-Based Video Streaming Platform
+</td>
 
-A C++ video platform built to demonstrate how fundamental data structures and algorithms can power real-world applications.
+<td width="50%">
 
-**Implemented concepts**
+### 🎬 Movie Recommendation System
 
-* Hash Tables
-* AVL Trees
-* Stacks
-* Queues
-* Linked Lists
-* Graphs
-* File System Operations
+Machine-learning recommendation platform for **4,800+ movies**, combining content-based filtering with intelligent search.
 
-**Focus:** Efficient data organization, search and retrieval using appropriate data structures.
+**Built with**
+
+`React` `FastAPI` `Python` `Scikit-learn`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍽️ HomeBite
+
+Hyperlocal marketplace connecting customers with **home-cooked meals**, featuring ordering, tracking, ratings and role-based dashboards.
+
+**Built with**
+
+`React` `Django` `DRF` `PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+### 🎓 SALAMS
+
+Academic management platform with **RBAC, attendance, grades, courses, assignments and communication**.
+
+**Built with**
+
+`React` `Node.js` `Express` `PostgreSQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💰 PayPilot
+
+Personal finance management application with budgeting, expense analytics, recurring expenses and group expense splitting.
+
+**Built with**
+
+`Java` `Swing` `MVC`
+
+</td>
+
+<td width="50%">
+
+### 🎥 Streamify
+
+Video platform built to apply fundamental **Data Structures & Algorithms** to a practical software system.
+
+**Built with**
+
+`C++` `AVL Trees` `Hash Tables` `Graphs`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-### Java Full Stack Developer Intern — 10Pearls
+### 10Pearls · Java Full Stack Developer Intern
 
-**Apr 2026 – Jun 2026**
+**Apr 2026 — Jun 2026**
 
-Worked on a full-stack Contact Management System using **Spring Boot, React.js and SQL Server**.
+Worked on a full-stack **Contact Management System** using:
 
-* Developed REST APIs using Spring Boot, JPA and Hibernate
-* Built responsive React.js interfaces
-* Implemented authentication, authorization and exception handling
-* Added unit testing with JUnit and Mockito
-* Used SonarQube and Git for code quality and collaboration
+`Spring Boot` · `React.js` · `SQL Server`
+
+* Developed secure REST APIs
+* Built responsive React interfaces
+* Implemented authentication and authorization
+* Added testing with JUnit and Mockito
+* Followed code-quality practices with SonarQube and Git
 
 ---
 
 ## 🎓 Education
 
-**Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)**
-Bachelor of Software Engineering · 2023 – Present
+**Ghulam Ishaq Khan Institute of Engineering Sciences & Technology (GIKI)**
+
+Bachelor of Software Engineering · **2023 — Present**
 
 ---
 
-## 🌱 Beyond Code
+## 🌍 Leadership
 
-I'm also involved in community leadership and engineering initiatives.
+### Project Topi — Head
 
-As **Head of Project Topi**, I lead community service initiatives including outreach programs, blood donation drives and flood relief activities.
+Leading community initiatives focused on social impact, including **blood donation drives, flood relief operations, food distribution, and volunteer coordination**.
 
-I have also contributed to **Team Urban GIKI**, representing Pakistan at the **Shell Eco-marathon Asia Pacific & Middle East 2025 in Qatar**.
+### Team Urban GIKI
+
+Contributed to **Team Urban GIKI** for the Shell Eco-marathon Asia Pacific & Middle East 2025 in Qatar, supporting technical and engineering initiatives.
 
 ---
 
-## 📊 GitHub
+## 🔭 Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiazAli573&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiazAli573&layout=compact&hide_border=true" height="165" />
-</p>
+```text
+AI & Machine Learning      █████████████████░░░
+Full-Stack Development     ██████████████████░░
+Software Architecture      ███████████████░░░░
+DevOps & Cloud             █████████████░░░░░░
+```
+
+Exploring **intelligent applications, scalable architectures, AI systems, and modern deployment workflows.**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in **software engineering, AI/ML, full-stack development, and building meaningful products**.
+<div align="center">
 
-<p align="center">
-  <a href="https://niazali.tech"><strong>🌐 niazali.tech</strong></a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/niazali573/"><strong>LinkedIn</strong></a>
-  &nbsp; • &nbsp;
-  <a href="mailto:nas.info573@gmail.com"><strong>Email</strong></a>
-</p>
+<a href="https://niazali.tech">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-111111?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/niazali573/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nas.info573@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://niazali.tech">
+
+**niazali.tech**
+
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building useful software, one problem at a time.</i>
-</p>
+<div align="center">
+
+*Building useful software. Solving meaningful problems.*
+
+</div>
