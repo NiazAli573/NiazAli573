@@ -223,7 +223,7 @@ Video platform built around practical applications of **data structures and algo
 
 <div align="center">
 
-### Let's build something meaningful.
+### Let's connect and build something meaningful.
 
 <br>
 
@@ -235,7 +235,5 @@ Video platform built around practical applications of **data structures and algo
 </a>
 
 <br><br>
-
-<a href="https://niazali.tech">niazali.tech</a>
 
 </div>
