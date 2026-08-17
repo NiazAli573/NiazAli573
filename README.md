@@ -7,9 +7,18 @@ I'm a Software Engineering student at **Ghulam Ishaq Khan Institute (GIKI)** wit
 I enjoy turning ideas into practical, scalable software — from full-stack web applications and intelligent systems to developer-focused tools. I care about clean architecture, maintainable code, performance, security, and building solutions that solve real problems.
 
 <p align="center">
-  <a href="https://niazali.tech">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/niazali573/">LinkedIn</a> •
-  <a href="https://github.com/NiazAli573">GitHub</a>
+  <a href="https://www.linkedin.com/in/niazali573/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nas.info573@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://niazali.tech">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/NiazAli573">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
